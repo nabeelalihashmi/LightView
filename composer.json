@@ -1,0 +1,19 @@
+{
+    "name": "nabeelalihashmi/lightview",
+    "description": "Lightweight template engine",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "IconicCodes\\LightView\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nabeel Ali",
+            "email": "mail2nabeelali@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
